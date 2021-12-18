@@ -28,12 +28,10 @@ El  proyecto **PRECISA** se compone de diferentes capítulos. Estas son las que 
 
 ## Ficheros .csv
 
-| Nombre del fichero   | Descripción                                                  | Capítulo             | Link                                                         |
-| -------------------- | ------------------------------------------------------------ | :------------------- | ------------------------------------------------------------ |
-| `raw_dataset`        | Microdatos con la intención y recuerdo de voto disponible.   | `0_precisa_datasets` | [🔗](https://github.com/endikasatu/proyecto-precisa/0_precisa_datasets/output/raw_dataset.csv) |
-| `full_raw_dataset`   | Microdatos con datos parciales sobre intención y recuerdo de voto. | `0_precisa_datasets` | [🔗](https://github.com/endikasatu/proyecto-precisa/0_precisa_datasets/output/full_raw_dataset.csv) |
-| `estudio_final_data` | Estimación de voto de los grupos demográficos para cada barómetro. | `1_demograficos`     | [🔗](https://github.com/endikasatu/proyecto-precisa/1_demograficos/output/estudio_final_data.csv) |
-| `legis_final_data`   | Estimación de voto de los grupos demográficos para cada legislatura. | `1_demograficos`     | [🔗](https://github.com/endikasatu/proyecto-precisa/1_demograficos/output/legis_final_data.csv) |
+| Nombre del fichero | Descripción                                                  | Capítulo             | Link                                                         |
+| ------------------ | ------------------------------------------------------------ | :------------------- | ------------------------------------------------------------ |
+| `raw_dataset`      | Microdatos con la intención y recuerdo de voto disponible.   | `0_precisa_datasets` | [🔗](https://github.com/endikasatu/proyecto-precisa/blob/main/0_precisa_datasets/output/raw_dataset.RDS) |
+| `full_raw_dataset` | Microdatos con datos parciales sobre intención y recuerdo de voto. | `0_precisa_datasets` | [🔗](https://github.com/endikasatu/proyecto-precisa/blob/main/0_precisa_datasets/output/full_raw_dataset.RDS) |
 
 ## Artículos en prensa
 
