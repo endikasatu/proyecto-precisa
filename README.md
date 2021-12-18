@@ -1,6 +1,6 @@
 # Proyecto PRECISA
 
-El **Proyecto PRECISA** es un trabajo que aúna los datos de los barómetros mensuales y el Fichero Integrado de Datos (FID) del Centro de Investigaciones Sociológicas (CIS). El objetivo del proyecto es ofrecer datos demográficos, políticos, económicos, sociales, personales y variables de voto. Para ello, se combinan los distintos ficheros, se estandarizan y se incorporan nuevas variables y, por último, se realizan diferentes análisis a partir de los datos generados previamente.
+El proyecto PRECISA es un estudio prospectivo que tiene como objetivo ofrecer una herramienta de análisis a partir de los datos del Centro de Investigaciones Sociológicas (CIS). Para ello, se han agregado más de 300 barómetros de las últimas tres décadas, desde junio de 1989 hasta la actualidad. Entre todos los barómetros se configura una base de datos de más de 800.000 entrevistas y 70 variables a lo largo de todo el territorio. Este proyecto no incluye estudios preelectorales y postelectorales del CIS.
 
 Este proyecto ha sido realizado por:
 
@@ -15,16 +15,18 @@ Metodología del proyecto:
 
 - ⚙️ [Qué es y cómo funciona el proyecto PRECISA](https://electoralreport.com/metodologia-proyecto-precisa)
 
-
-
 ## Capítulos
 
-El **Proyecto PRECISA** se compone de diferentes capítulos. Estas son las que se han publicado hasta ahora:
+El  proyecto **PRECISA** se compone de diferentes capítulos. Estas son las que se han publicado hasta ahora:
 
-- 📁 `0_precisa_datasets:` Creación de una base de datos estandarizada que incluye variables demográficas y de voto.
-- 📁 `1_demograficos`: Estimación del apoyo a los partidos y coaliciones de los diferentes grupos demográficos.
+- 📁 `0_precisa_datasets:` Base de datos estandarizada que incluye variables demográficas, políticas, económicas, sociales y personales.
+- 📁 `1_demograficos`: Estimación del apoyo a los partidos de los diferentes grupos demográficos.
+- 📁 `2_int_voto_grupos`: Evolución de la estimación de voto a los partidos de los diferentes grupos demográficos.
+- 📁 `3_matriz_transferencias`: Transferencias de voto entre partidos. 
 
+- 📁 `4_pricipales_problemas`: Principales problemas de España.
 
+- 📁 `5_perfil_votantes`: Perfil de los partidos políticos.
 
 ## Ficheros .csv
 
@@ -35,7 +37,14 @@ El **Proyecto PRECISA** se compone de diferentes capítulos. Estas son las que s
 | `estudio_final_data` | Estimación de voto de los grupos demográficos para cada barómetro. | `1_demograficos`     | [🔗](https://github.com/endikasatu/proyecto-precisa/1_demograficos/output/estudio_final_data.csv) |
 | `legis_final_data`   | Estimación de voto de los grupos demográficos para cada legislatura. | `1_demograficos`     | [🔗](https://github.com/endikasatu/proyecto-precisa/1_demograficos/output/legis_final_data.csv) |
 
+## Artículos en prensa
 
+| Medio de comunicación | Titular                                                      | Capítulo                  | Link                                                         |
+| --------------------- | ------------------------------------------------------------ | :------------------------ | ------------------------------------------------------------ |
+| `elDiario.es`         | Sexo, religión, edad o estudios: cómo ha cambiado el perfil del votante según el CIS | ``2_int_voto_grupos``     | [🔗](https://www.eldiario.es/politica/sexo-religion-edad-estudios-cambiado-perfil-votante-cis_1_8546042.html) |
+| `elDiario.es`         | Con Rajoy, la corrupción; con Sánchez, la economía: la evolución de las preocupaciones ciudadanas, según el CIS | `4_pricipales_problemas`  | [🔗](https://www.eldiario.es/politica/rajoy-corrupcion-sanchez-economia-evolucion-preocupaciones-ciudadanas-cis_1_8547695.html) |
+| `elDiario.es`         | Un mundo bipartidista que colapsó: cómo refleja el CIS el cambio a la fragmentación política | `3_matriz_transferencias` | [🔗](https://www.eldiario.es/politica/mundo-bipartidista-colapso-refleja-cis-cambio-fragmentacion-politica_1_8548214.html) |
+| `elDiario.es`         | La importancia de las mujeres y el papel de los jóvenes: quién compone la bolsa de votantes de cada partido | `5_perfil_votantes`       | [🔗](https://www.eldiario.es/politica/importancia-mujeres-papel-jovenes-votantes-compone-bolsa-votantes-partido_1_8548380.html) |
 
 ## Licencia
 
