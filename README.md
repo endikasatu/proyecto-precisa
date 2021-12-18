@@ -19,14 +19,12 @@ Metodología del proyecto:
 
 El  proyecto **PRECISA** se compone de diferentes capítulos. Estas son las que se han publicado hasta ahora:
 
-- 📁 `0_precisa_datasets:` Base de datos estandarizada que incluye variables demográficas, políticas, económicas, sociales y personales.
-- 📁 `1_demograficos`: Estimación del apoyo a los partidos de los diferentes grupos demográficos.
-- 📁 `2_int_voto_grupos`: Evolución de la estimación de voto a los partidos de los diferentes grupos demográficos.
-- 📁 `3_matriz_transferencias`: Transferencias de voto entre partidos. 
-
-- 📁 `4_pricipales_problemas`: Principales problemas de España.
-
-- 📁 `5_perfil_votantes`: Perfil de los partidos políticos.
+- 📁 [**`0_precisa_datasets`**](https://github.com/endikasatu/proyecto-precisa/tree/main/0_precisa_datasets): Base de datos estandarizada que incluye variables demográficas, políticas, económicas, sociales y personales.
+- 📁 [**`1_demograficos`**](https://github.com/endikasatu/proyecto-precisa/tree/main/1_demograficos): Estimación del apoyo a los partidos de los diferentes grupos demográficos.
+- 📁 2_int_voto_grupos: Evolución de la estimación de voto a los partidos de los diferentes grupos demográficos.
+- 📁 3_matriz_transferencias: Transferencias de voto entre partidos. 
+- 📁 4_pricipales_problemas: Principales problemas de España.
+- 📁 5_perfil_votantes: Perfil de los partidos políticos.
 
 ## Ficheros .csv
 
