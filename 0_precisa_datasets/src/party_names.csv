@@ -1,0 +1,936 @@
+﻿id_party;info;legislatura;old_name;new_name
+15-VOX;Intención de voto;15;VOX;Vox
+15-VOX;Recuerdo de voto;15;VOX;Vox
+15-Voto nulo;Intención de voto;15;Voto nulo;Nulo
+15-Voto blanco;Intención de voto;15;Voto blanco;Blanco
+15-UPN;Intención de voto;15;UPN;PP
+15-UPL;Intención de voto;15;UPL;UPL
+15-Unidas Podemos;Intención de voto;15;Unidas Podemos;UP
+15-Unidas Podemos;Recuerdo de voto;15;Unidas Podemos;UP
+15-Teruel Existe;Intención de voto;15;Teruel Existe;TE
+15-Teruel Existe;Recuerdo de voto;15;Teruel Existe;TE
+15-Recortes Cero;Intención de voto;15;Recortes Cero;Otros
+15-PSOE;Intención de voto;15;PSOE;PSOE
+15-PSOE;Recuerdo de voto;15;PSOE;PSOE
+15-PRC;Intención de voto;15;PRC;PRC
+15-PRC;Recuerdo de voto;15;PRC;PRC
+15-PR+;Intención de voto;15;PR+;PR+
+15-PP;Intención de voto;15;PP;PP
+15-PP;Recuerdo de voto;15;PP;PP
+15-Podemos;Intención de voto;15;Podemos;UP
+15-PI;Intención de voto;15;PI;PI
+15-PDeCAT;Intención de voto;15;PDeCAT;JxCAT
+15-PCPE;Intención de voto;15;PCPE;PCPE
+15-Partido Libertario;Intención de voto;15;Partido Libertario;Otros
+15-Partido Humanista;Intención de voto;15;Partido Humanista;Otros
+15-Partido Feminista de España;Intención de voto;15;Partido Feminista de España;Otros
+15-PAR;Intención de voto;15;PAR;PAR
+15-PACMA;Intención de voto;15;PACMA;PACMA
+15-PACMA;Recuerdo de voto;15;PACMA;PACMA
+15-Otros partidos;Recuerdo de voto;15;Otros partidos;Otros
+15-Otro partido;Intención de voto;15;Otro partido;Otros
+15-Nulo;Recuerdo de voto;15;Nulo;Nulo
+15-Nueva Canarias;Intención de voto;15;Nueva Canarias;NCa
+15-No votó;Recuerdo de voto;15;No votó;No votaría/No votó
+15-No votaría;Intención de voto;15;No votaría;No votaría/No votó
+15-No tenía edad;Recuerdo de voto;15;No tenía edad;No tenía edad
+15-No tenía derecho a voto;Recuerdo de voto;15;No tenía derecho a voto;No tenía derecho a voto
+15-No sabe todavía;Intención de voto;15;No sabe todavía;N.S.
+15-No recuerda;Recuerdo de voto;15;No recuerda;N.S.
+15-Na+;Recuerdo de voto;15;Na+;PP
+15-N.C.;Intención de voto;15;N.C.;N.C.
+15-N.C.;Recuerdo de voto;15;N.C.;N.C.
+15-Més Compromís;Recuerdo de voto;15;Més Compromís;MP
+15-MÉS (PSM-Entesa);Intención de voto;15;MÉS (PSM-Entesa);Otros
+15-Más País;Intención de voto;15;Más País;MP
+15-Más País;Recuerdo de voto;15;Más País;MP
+15-Los Verdes;Intención de voto;15;Los Verdes;Otros
+15-JxCat;Intención de voto;15;JxCat;JxCAT
+15-JxCat;Recuerdo de voto;15;JxCat;JxCAT
+15-IU;Intención de voto;15;IU;UP
+15-Geroa Bai;Intención de voto;15;Geroa Bai;GBai
+15-Falange Española de las JONS;Intención de voto;15;Falange Española de las JONS;Otros
+15-FAC;Intención de voto;15;FAC;PP
+15-Escaños en Blanco;Intención de voto;15;Escaños en Blanco;Otros
+15-ERC;Intención de voto;15;ERC;ERC
+15-ERC;Recuerdo de voto;15;ERC;ERC
+15-EQUO;Intención de voto;15;EQUO;MP
+15-En Común-Unidas Podemos;Intención de voto;15;En Común-Unidas Podemos;UP
+15-En Común-Unidas Podemos;Recuerdo de voto;15;En Común-Unidas Podemos;UP
+15-En Comú Podem;Intención de voto;15;En Comú Podem;UP
+15-En Comú Podem;Recuerdo de voto;15;En Comú Podem;UP
+15-En blanco;Intención de voto;15;En blanco;Blanco
+15-En blanco;Recuerdo de voto;15;En blanco;Blanco
+15-EH Bildu;Intención de voto;15;EH Bildu;EHB
+15-EH Bildu;Recuerdo de voto;15;EH Bildu;EHB
+15-EAJ-PNV;Intención de voto;15;EAJ-PNV;PNV
+15-EAJ-PNV;Recuerdo de voto;15;EAJ-PNV;PNV
+15-CUP;Intención de voto;15;CUP;CUP
+15-CUP;Recuerdo de voto;15;CUP;CUP
+15-Compromís-Podemos-EUPV;Intención de voto;15;Compromís-Podemos-EUPV;UP
+15-Compromís;Intención de voto;15;Compromís;MP
+15-Ciudadanos;Intención de voto;15;Ciudadanos;Cs
+15-Ciudadanos;Recuerdo de voto;15;Ciudadanos;Cs
+15-CHA;Intención de voto;15;CHA;CHA
+15-CCa-NC;Recuerdo de voto;15;CCa-NC;CC-NC
+15-CC-PNC;Intención de voto;15;CC-PNC;CC-NC
+15-C's;Recuerdo de voto;15;C's;Cs
+15-BNG;Intención de voto;15;BNG;BNG
+15-BNG;Recuerdo de voto;15;BNG;BNG
+15-Adelante Sevilla;Intención de voto;15;Adelante Sevilla;Otros
+14-VOX;Intención de voto;14;VOX;Vox
+14-VOX;Recuerdo de voto;14;VOX;Vox
+14-Voto nulo;Intención de voto;14;Voto nulo;Nulo
+14-Voto blanco;Intención de voto;14;Voto blanco;Blanco
+14-UPN;Intención de voto;14;UPN;PP
+14-UPL;Intención de voto;14;UPL;UPL
+14-Unidas Podemos;Intención de voto;14;Unidas Podemos;UP
+14-Unidas Podemos;Recuerdo de voto;14;Unidas Podemos;UP
+14-Teruel Existe;Intención de voto;14;Teruel Existe;TE
+14-Teruel Existe;Recuerdo de voto;14;Teruel Existe;TE
+14-Recortes Cero;Intención de voto;14;Recortes Cero;Otros
+14-PSOE;Intención de voto;14;PSOE;PSOE
+14-PSOE;Recuerdo de voto;14;PSOE;PSOE
+14-PRC;Intención de voto;14;PRC;PRC
+14-PRC;Recuerdo de voto;14;PRC;PRC
+14-PR+;Intención de voto;14;PR+;PR+
+14-PP;Intención de voto;14;PP;PP
+14-PP;Recuerdo de voto;14;PP;PP
+14-Podemos;Intención de voto;14;Podemos;UP
+14-PI;Intención de voto;14;PI;PI
+14-PDeCAT;Intención de voto;14;PDeCAT;JxCAT
+14-PCPE;Intención de voto;14;PCPE;PCPE
+14-Partido Libertario;Intención de voto;14;Partido Libertario;Otros
+14-Partido Humanista;Intención de voto;14;Partido Humanista;Otros
+14-Partido Feminista de España;Intención de voto;14;Partido Feminista de España;Otros
+14-PAR;Intención de voto;14;PAR;PAR
+14-PACMA;Intención de voto;14;PACMA;PACMA
+14-PACMA;Recuerdo de voto;14;PACMA;PACMA
+14-Otros partidos;Recuerdo de voto;14;Otros partidos;Otros
+14-Otro partido;Intención de voto;14;Otro partido;Otros
+14-Nulo;Recuerdo de voto;14;Nulo;Nulo
+14-Nueva Canarias;Intención de voto;14;Nueva Canarias;NCa
+14-No votó;Recuerdo de voto;14;No votó;No votaría/No votó
+14-No votaría;Intención de voto;14;No votaría;No votaría/No votó
+14-No tenía edad;Recuerdo de voto;14;No tenía edad;No tenía edad
+14-No tenía derecho a voto;Recuerdo de voto;14;No tenía derecho a voto;No tenía derecho a voto
+14-No sabe todavía;Intención de voto;14;No sabe todavía;N.S.
+14-No recuerda;Recuerdo de voto;14;No recuerda;N.S.
+14-Na+;Recuerdo de voto;14;Na+;PP
+14-N.C.;Intención de voto;14;N.C.;N.C.
+14-N.C.;Recuerdo de voto;14;N.C.;N.C.
+14-Més Compromís;Recuerdo de voto;14;Més Compromís;MP
+14-MÉS (PSM-Entesa);Intención de voto;14;MÉS (PSM-Entesa);Otros
+14-Más País;Intención de voto;14;Más País;MP
+14-Más País;Recuerdo de voto;14;Más País;MP
+14-Los Verdes;Intención de voto;14;Los Verdes;Otros
+14-JxCat;Intención de voto;14;JxCat;JxCAT
+14-JxCat;Recuerdo de voto;14;JxCat;JxCAT
+14-IU;Intención de voto;14;IU;UP
+14-Geroa Bai;Intención de voto;14;Geroa Bai;GBai
+14-Falange Española de las JONS;Intención de voto;14;Falange Española de las JONS;Otros
+14-FAC;Intención de voto;14;FAC;PP
+14-Escaños en Blanco;Intención de voto;14;Escaños en Blanco;Otros
+14-ERC;Intención de voto;14;ERC;ERC
+14-ERC;Recuerdo de voto;14;ERC;ERC
+14-EQUO;Intención de voto;14;EQUO;MP
+14-En Común-Unidas Podemos;Intención de voto;14;En Común-Unidas Podemos;UP
+14-En Común-Unidas Podemos;Recuerdo de voto;14;En Común-Unidas Podemos;UP
+14-En Comú Podem;Intención de voto;14;En Comú Podem;UP
+14-En Comú Podem;Recuerdo de voto;14;En Comú Podem;UP
+14-En blanco;Intención de voto;14;En blanco;Blanco
+14-En blanco;Recuerdo de voto;14;En blanco;Blanco
+14-EH Bildu;Intención de voto;14;EH Bildu;EHB
+14-EH Bildu;Recuerdo de voto;14;EH Bildu;EHB
+14-EAJ-PNV;Intención de voto;14;EAJ-PNV;PNV
+14-EAJ-PNV;Recuerdo de voto;14;EAJ-PNV;PNV
+14-CUP;Intención de voto;14;CUP;CUP
+14-CUP;Recuerdo de voto;14;CUP;CUP
+14-Compromís-Podemos-EUPV;Intención de voto;14;Compromís-Podemos-EUPV;UP
+14-Compromís;Intención de voto;14;Compromís;MP
+14-Ciudadanos;Intención de voto;14;Ciudadanos;Cs
+14-Ciudadanos;Recuerdo de voto;14;Ciudadanos;Cs
+14-CHA;Intención de voto;14;CHA;CHA
+14-CCa-NC;Recuerdo de voto;14;CCa-NC;CC-NC
+14-CC-PNC;Intención de voto;14;CC-PNC;CC-NC
+14-C's;Recuerdo de voto;14;C's;Cs
+14-BNG;Intención de voto;14;BNG;BNG
+14-BNG;Recuerdo de voto;14;BNG;BNG
+14-Adelante Sevilla;Intención de voto;14;Adelante Sevilla;Otros
+13-VOX;Intención de voto;13;VOX;Vox
+13-VOX;Recuerdo de voto;13;VOX;Vox
+13-Voto nulo;Intención de voto;13;Voto nulo;Nulo
+13-Voto nulo;Recuerdo de voto;13;Voto nulo;Voto nulo
+13-UPyD;Intención de voto;13;UPyD;UPyD
+13-UPN (Navarra Suma);Recuerdo de voto;13;UPN (Navarra Suma);PP
+13-UPN;Intención de voto;13;UPN;PP
+13-UPN;Recuerdo de voto;13;UPN;UPN
+13-UPL;Intención de voto;13;UPL;UPL
+13-Unidas Podemos;Intención de voto;13;Unidas Podemos;UP
+13-Unidas Podemos;Recuerdo de voto;13;Unidas Podemos;UP
+13-Recortes Cero;Intención de voto;13;Recortes Cero;Otros
+13-PSOE;Intención de voto;13;PSOE;PSOE
+13-PSOE;Recuerdo de voto;13;PSOE;PSOE
+13-PRC (Partidos Regionalista de Cantabria);Intención de voto;13;PRC (Partidos Regionalista de Cantabria);PRC
+13-PRC (Partido Regionalista de Cantabria);Recuerdo de voto;13;PRC (Partido Regionalista de Cantabria);PRC
+13-PRC;Intención de voto;13;PRC;PRC
+13-PRC;Recuerdo de voto;13;PRC;PRC
+13-PP;Intención de voto;13;PP;PP
+13-PP;Recuerdo de voto;13;PP;PP
+13-Podemos;Intención de voto;13;Podemos;UP
+13-Poble Lliure;Intención de voto;13;Poble Lliure;Otros
+13-PI;Intención de voto;13;PI;PI
+13-PCPE;Intención de voto;13;PCPE;PCPE
+13-Partido Libertario;Intención de voto;13;Partido Libertario;Otros
+13-Partido Feminista de España;Intención de voto;13;Partido Feminista de España;Otros
+13-PAR;Intención de voto;13;PAR;PAR
+13-PACMA;Intención de voto;13;PACMA;PACMA
+13-Otros partidos;Intención de voto;13;Otros partidos;Otros
+13-Otros partidos;Recuerdo de voto;13;Otros partidos;Otros
+13-Otro partido;Intención de voto;13;Otro partido;Otros
+13-Nulo;Recuerdo de voto;13;Nulo;Nulo
+13-Nueva Canarias;Intención de voto;13;Nueva Canarias;NCa
+13-No votó;Recuerdo de voto;13;No votó;No votaría/No votó
+13-No votaría;Intención de voto;13;No votaría;No votaría/No votó
+13-No tenía edad;Recuerdo de voto;13;No tenía edad;No tenía edad
+13-No tenía derecho a voto;Recuerdo de voto;13;No tenía derecho a voto;No tenía derecho a voto
+13-No sabe todavía;Intención de voto;13;No sabe todavía;N.S.
+13-No recuerda;Recuerdo de voto;13;No recuerda;N.S.
+13-NA+;Recuerdo de voto;13;NA+;PP
+13-NA;Recuerdo de voto;13;NA;N.C.
+13-N.C.;Intención de voto;13;N.C.;N.C.
+13-N.C.;Recuerdo de voto;13;N.C.;N.C.
+13-MÉS (PSM-Entesa);Intención de voto;13;MÉS (PSM-Entesa);Otros
+13-Los Verdes;Intención de voto;13;Los Verdes;Otros
+13-JxCat;Intención de voto;13;JxCat;JxCAT
+13-JxCat;Recuerdo de voto;13;JxCat;JxCAT
+13-IU;Intención de voto;13;IU;UP
+13-Foro Asturias;Intención de voto;13;Foro Asturias;PP
+13-Falange Española de las JONS;Intención de voto;13;Falange Española de las JONS;Otros
+13-Escaños en Blanco;Intención de voto;13;Escaños en Blanco;Otros
+13-ERC;Intención de voto;13;ERC;ERC
+13-ERC;Recuerdo de voto;13;ERC;ERC
+13-EQUO;Intención de voto;13;EQUO;UP
+13-En Marea;Intención de voto;13;En Marea;UP
+13-En Comú Podem;Intención de voto;13;En Comú Podem;UP
+13-En Comú Podem;Recuerdo de voto;13;En Comú Podem;UP
+13-En blanco;Intención de voto;13;En blanco;Blanco
+13-En blanco;Recuerdo de voto;13;En blanco;Blanco
+13-EH Bildu;Intención de voto;13;EH Bildu;EHB
+13-EH Bildu;Recuerdo de voto;13;EH Bildu;EHB
+13-EAJ-PNV;Intención de voto;13;EAJ-PNV;PNV
+13-EAJ-PNV;Recuerdo de voto;13;EAJ-PNV;PNV
+13-CUP;Intención de voto;13;CUP;CUP
+13-Compromís;Intención de voto;13;Compromís;Compromís
+13-Compromís;Recuerdo de voto;13;Compromís;Compromís
+13-Ciudadanos;Intención de voto;13;Ciudadanos;Cs
+13-Ciudadanos;Recuerdo de voto;13;Ciudadanos;Cs
+13-CHA;Intención de voto;13;CHA;CHA
+13-CC-PNC;Intención de voto;13;CC-PNC;CC
+13-CC-PNC;Recuerdo de voto;13;CC-PNC;CC
+13-C's;Recuerdo de voto;13;C's;Cs
+13-BNG (Bloque Nacionalista Galego);Recuerdo de voto;13;BNG (Bloque Nacionalista Galego);BNG
+13-BNG;Intención de voto;13;BNG;BNG
+13-BNG;Recuerdo de voto;13;BNG;BNG
+13-Actúa;Intención de voto;13;Actúa;Otros
+12-VOX;Intención de voto;12;VOX;Vox
+12-Voto nulo;Intención de voto;12;Voto nulo;Nulo
+12-Voto nulo;Recuerdo de voto;12;Voto nulo;Voto nulo
+12-UPyD;Intención de voto;12;UPyD;UPyD
+12-UPN;Intención de voto;12;UPN;PP
+12-UPL;Intención de voto;12;UPL;UPL
+12-Unió Valenciana;Intención de voto;12;Unió Valenciana;Otros
+12-Unió;Intención de voto;12;Unió;Otros
+12-Unidos Podemos;Intención de voto;12;Unidos Podemos;UP
+12-Unidos Podemos;Recuerdo de voto;12;Unidos Podemos;UP
+12-Un País en Común;Intención de voto;12;Un País en Común;Otros
+12-Somos Nós;Intención de voto;12;Somos Nós;Otros
+12-Som Valencians;Intención de voto;12;Som Valencians;Otros
+12-Som Catalans;Intención de voto;12;Som Catalans;Otros
+12-SAin;Intención de voto;12;SAin;Otros
+12-Recortes Cero;Intención de voto;12;Recortes Cero;Otros
+12-PSOE;Intención de voto;12;PSOE;PSOE
+12-PSOE;Recuerdo de voto;12;PSOE;PSOE
+12-PSM-Entesa Nacionalista;Intención de voto;12;PSM-Entesa Nacionalista;Otros
+12-PRC;Intención de voto;12;PRC;PRC
+12-PP;Intención de voto;12;PP;PP
+12-PP;Recuerdo de voto;12;PP;PP
+12-POSI;Intención de voto;12;POSI;Otros
+12-Podemos;Intención de voto;12;Podemos;UP
+12-Podemos;Recuerdo de voto;12;Podemos;UP
+12-PNV;Intención de voto;12;PNV;PNV
+12-PNV;Recuerdo de voto;12;PNV;PNV
+12-PNC;Intención de voto;12;PNC;Otros
+12-PJPE;Intención de voto;12;PJPE;Otros
+12-PDeCAT;Intención de voto;12;PDeCAT;JxCAT
+12-PCPE (Partido Comunista de los Pueblos de España);Intención de voto;12;PCPE (Partido Comunista de los Pueblos de España);PCPE
+12-PCPE;Intención de voto;12;PCPE;PCPE
+12-Partido Libertario;Intención de voto;12;Partido Libertario;Otros
+12-Partido Humanista;Intención de voto;12;Partido Humanista;Otros
+12-Partido Feminista DE España;Intención de voto;12;Partido Feminista DE España;Otros
+12-Partido Andalucista;Intención de voto;12;Partido Andalucista;Otros
+12-PAR;Intención de voto;12;PAR;PP
+12-PACMA;Intención de voto;12;PACMA;PACMA
+12-PA;Intención de voto;12;PA;PA
+12-P-LIB;Intención de voto;12;P-LIB;Otros
+12-Otros partidos;Intención de voto;12;Otros partidos;Otros
+12-Otros partidos;Recuerdo de voto;12;Otros partidos;Otros
+12-Otros;Recuerdo de voto;12;Otros;Otros
+12-Otro partido;Intención de voto;12;Otro partido;Otros
+12-Otro partido;Recuerdo de voto;12;Otro partido;Otros
+12-Nueva Canarias;Intención de voto;12;Nueva Canarias;NCa
+12-No votó;Recuerdo de voto;12;No votó;No votaría/No votó
+12-No votaría;Intención de voto;12;No votaría;No votaría/No votó
+12-No tenía edad;Recuerdo de voto;12;No tenía edad;No tenía edad
+12-No tenía derecho a voto;Recuerdo de voto;12;No tenía derecho a voto;No tenía derecho a voto
+12-No sabe todavía;Intención de voto;12;No sabe todavía;N.S.
+12-No recuerda;Recuerdo de voto;12;No recuerda;N.S.
+12-NA;Recuerdo de voto;12;NA;N.C.
+12-N.C.;Intención de voto;12;N.C.;N.C.
+12-N.C.;Recuerdo de voto;12;N.C.;N.C.
+12-Més per Mallorca;Intención de voto;12;Més per Mallorca;Otros
+12-MÉS;Intención de voto;12;MÉS;Otros
+12-Los Verdes;Intención de voto;12;Los Verdes;Otros
+12-Junts Per Catalunya;Intención de voto;12;Junts Per Catalunya;JxCAT
+12-Junts pel Sí;Intención de voto;12;Junts pel Sí;Otros
+12-IU-UP;Recuerdo de voto;12;IU-UP;IU
+12-IU (Unidad Popular);Intención de voto;12;IU (Unidad Popular);IU
+12-IU (Unidad Popular);Recuerdo de voto;12;IU (Unidad Popular);IU
+12-IU;Intención de voto;12;IU;UP
+12-Iniciativa Feminista;Intención de voto;12;Iniciativa Feminista;Otros
+12-Geroa Bai;Intención de voto;12;Geroa Bai;GBai
+12-Foro Asturias;Intención de voto;12;Foro Asturias;PP
+12-Falange Española de las JONS;Intención de voto;12;Falange Española de las JONS;Otros
+12-Falange de las JONS;Intención de voto;12;Falange de las JONS;Otros
+12-Falange;Intención de voto;12;Falange;Otros
+12-EU;Intención de voto;12;EU;Otros
+12-España 2000;Intención de voto;12;España 2000;Otros
+12-Escaños en Blanco;Intención de voto;12;Escaños en Blanco;Otros
+12-ERC;Intención de voto;12;ERC;ERC
+12-ERC;Recuerdo de voto;12;ERC;ERC
+12-EQUO;Intención de voto;12;EQUO;UP
+12-En Marea;Intención de voto;12;En Marea;UP
+12-En Marea;Recuerdo de voto;12;En Marea;UP
+12-En Comú Podem;Intención de voto;12;En Comú Podem;UP
+12-En Comú Podem;Recuerdo de voto;12;En Comú Podem;UP
+12-En blanco;Intención de voto;12;En blanco;Blanco
+12-En blanco;Recuerdo de voto;12;En blanco;Blanco
+12-EH Bildu;Intención de voto;12;EH Bildu;EHB
+12-EH Bildu;Recuerdo de voto;12;EH Bildu;EHB
+12-EAJ-PNV;Intención de voto;12;EAJ-PNV;PNV
+12-EAJ-PNV;Recuerdo de voto;12;EAJ-PNV;PNV
+12-DiL-CDC;Recuerdo de voto;12;DiL-CDC;JxCAT
+12-Democracia Nacional;Intención de voto;12;Democracia Nacional;Otros
+12-CUP;Intención de voto;12;CUP;CUP
+12-Crida Nacional per la República;Intención de voto;12;Crida Nacional per la República;Otros
+12-Convergència (Democràcia i Llibertat);Intención de voto;12;Convergència (Democràcia i Llibertat);JxCAT
+12-Convergència (Democràcia i Llibertat);Recuerdo de voto;12;Convergència (Democràcia i Llibertat);JxCAT
+12-Convergència (CDC);Intención de voto;12;Convergència (CDC);JxCAT
+12-Convergència (CDC);Recuerdo de voto;12;Convergència (CDC);JxCAT
+12-Compromís-Podemos-EUPV;Recuerdo de voto;12;Compromís-Podemos-EUPV;UP
+12-Compromís-Podemos;Intención de voto;12;Compromís-Podemos;UP
+12-Compromís-Podemos;Recuerdo de voto;12;Compromís-Podemos;UP
+12-Compromís;Intención de voto;12;Compromís;Compromís
+12-Coalición Patriótica España;Intención de voto;12;Coalición Patriótica España;Otros
+12-Ciudadanos;Intención de voto;12;Ciudadanos;Cs
+12-Ciudadanos;Recuerdo de voto;12;Ciudadanos;Cs
+12-CHA;Intención de voto;12;CHA;CHA
+12-CDC;Recuerdo de voto;12;CDC;JxCAT
+12-CCD (Ciudadanos de Centro Democrático);Intención de voto;12;CCD (Ciudadanos de Centro Democrático);Otros
+12-CC-PNC;Intención de voto;12;CC-PNC;CC
+12-CC-PNC;Recuerdo de voto;12;CC-PNC;CC
+12-CC;Recuerdo de voto;12;CC;CC
+12-C's;Recuerdo de voto;12;C's;Cs
+12-BNG;Intención de voto;12;BNG;BNG
+12-(NO LEER) Voto nulo;Intención de voto;12;(NO LEER) Voto nulo;Nulo
+11-VOX;Intención de voto;11;VOX;Vox
+11-Voto nulo;Intención de voto;11;Voto nulo;Nulo
+11-Voto nulo;Recuerdo de voto;11;Voto nulo;Voto nulo
+11-UPyD;Intención de voto;11;UPyD;UPyD
+11-Unió;Intención de voto;11;Unió;Otros
+11-Somos Nós;Intención de voto;11;Somos Nós;Otros
+11-Som Valencians;Intención de voto;11;Som Valencians;Otros
+11-Som Catalans;Intención de voto;11;Som Catalans;Otros
+11-PSOE;Intención de voto;11;PSOE;PSOE
+11-PSOE;Recuerdo de voto;11;PSOE;PSOE
+11-PP;Intención de voto;11;PP;PP
+11-PP;Recuerdo de voto;11;PP;PP
+11-Podemos;Intención de voto;11;Podemos;UP
+11-Podemos;Recuerdo de voto;11;Podemos;UP
+11-PNV;Intención de voto;11;PNV;PNV
+11-PNV;Recuerdo de voto;11;PNV;PNV
+11-PCPE (Partido Comunista de los Pueblos de España);Intención de voto;11;PCPE (Partido Comunista de los Pueblos de España);PCPE
+11-Partido Humanista;Intención de voto;11;Partido Humanista;Otros
+11-PACMA;Intención de voto;11;PACMA;PACMA
+11-Otros partidos;Recuerdo de voto;11;Otros partidos;Otros
+11-Otros;Recuerdo de voto;11;Otros;Otros
+11-No votó;Recuerdo de voto;11;No votó;No votaría/No votó
+11-No votaría;Intención de voto;11;No votaría;No votaría/No votó
+11-No tenía edad;Recuerdo de voto;11;No tenía edad;No tenía edad
+11-No sabe todavía;Intención de voto;11;No sabe todavía;N.S.
+11-No recuerda;Recuerdo de voto;11;No recuerda;N.S.
+11-NA;Recuerdo de voto;11;NA;N.C.
+11-N.C.;Intención de voto;11;N.C.;N.C.
+11-N.C.;Recuerdo de voto;11;N.C.;N.C.
+11-MÉS (Més Per Mallorca);Intención de voto;11;MÉS (Més Per Mallorca);Otros
+11-Los Verdes;Intención de voto;11;Los Verdes;Otros
+11-Junts Pel Sí;Intención de voto;11;Junts Pel Sí;Otros
+11-IU-UP;Recuerdo de voto;11;IU-UP;IU
+11-IU (Unidad Popular);Intención de voto;11;IU (Unidad Popular);IU
+11-IU (Unidad Popular);Recuerdo de voto;11;IU (Unidad Popular);IU
+11-Iniciativa Feminista;Intención de voto;11;Iniciativa Feminista;Otros
+11-Geroa Bai;Intención de voto;11;Geroa Bai;GBai
+11-ERC;Intención de voto;11;ERC;ERC
+11-ERC;Recuerdo de voto;11;ERC;ERC
+11-EQUO;Intención de voto;11;EQUO;EQUO
+11-En Marea;Intención de voto;11;En Marea;UP
+11-En Marea;Recuerdo de voto;11;En Marea;UP
+11-En Comú Podem;Intención de voto;11;En Comú Podem;UP
+11-En Comú Podem;Recuerdo de voto;11;En Comú Podem;UP
+11-En blanco;Intención de voto;11;En blanco;Blanco
+11-En blanco;Recuerdo de voto;11;En blanco;Blanco
+11-EH Bildu;Intención de voto;11;EH Bildu;EHB
+11-EH Bildu;Recuerdo de voto;11;EH Bildu;EHB
+11-DiL-CDC;Recuerdo de voto;11;DiL-CDC;Otros
+11-CUP;Intención de voto;11;CUP;CUP
+11-Convergència (Democràcia i Llibertat);Intención de voto;11;Convergència (Democràcia i Llibertat);JxCAT
+11-Convergència (Democràcia i Llibertat);Recuerdo de voto;11;Convergència (Democràcia i Llibertat);JxCAT
+11-Compromís-Podemos;Intención de voto;11;Compromís-Podemos;UP
+11-Compromís-Podemos;Recuerdo de voto;11;Compromís-Podemos;UP
+11-Compromís;Intención de voto;11;Compromís;UP
+11-Ciudadanos;Intención de voto;11;Ciudadanos;Cs
+11-Ciudadanos;Recuerdo de voto;11;Ciudadanos;Cs
+11-CCD (Ciudadanos de Centro Democrático);Intención de voto;11;CCD (Ciudadanos de Centro Democrático);Otros
+11-CC;Intención de voto;11;CC;CC
+11-CC;Recuerdo de voto;11;CC;CC
+11-C's;Recuerdo de voto;11;C's;Cs
+11-BNG;Intención de voto;11;BNG;BNG
+11-Alianza Nacional;Intención de voto;11;Alianza Nacional;Otros
+10-VOX;Intención de voto;10;VOX;Vox
+10-Voto nulo ;Intención de voto;10;Voto nulo ;Nulo
+10-Voto nulo ;Recuerdo de voto;10;Voto nulo ;Voto nulo
+10-Voto nulo;Intención de voto;10;Voto nulo;Nulo
+10-Voto nulo;Recuerdo de voto;10;Voto nulo;Voto nulo
+10-Voto nulo;Recuerdo de voto;10;Voto nulo ;Voto nulo
+10-UPyD;Intención de voto;10;UPyD;UPyD
+10-UPyD;Recuerdo de voto;10;UPyD;UPyD
+10-UPN;Intención de voto;10;UPN;UPN
+10-Unió;Intención de voto;10;Unió;Otros
+10-Tierra Comunera;Intención de voto;10;Tierra Comunera;Otros
+10-Red;Intención de voto;10;Red;Otros
+10-PSOE;Intención de voto;10;PSOE;PSOE
+10-PSOE;Recuerdo de voto;10;PSOE;PSOE
+10-PRC;Intención de voto;10;PRC;PRC
+10-PP;Intención de voto;10;PP;PP
+10-PP;Recuerdo de voto;10;PP;PP
+10-Podemos;Intención de voto;10;Podemos;UP
+10-PNV;Intención de voto;10;PNV;PNV
+10-PNV;Recuerdo de voto;10;PNV;PNV
+10-PCPE;Intención de voto;10;PCPE;PCPE
+10-Partido X;Intención de voto;10;Partido X;Otros
+10-Partido Pirata;Intención de voto;10;Partido Pirata;Otros
+10-PACMA;Intención de voto;10;PACMA;PACMA
+10-PA (Partido Andalucista);Intención de voto;10;PA (Partido Andalucista);Otros
+10-PA;Intención de voto;10;PA;PA
+10-Otros partidos ;Intención de voto;10;Otros partidos ;Otros
+10-Otros partidos ;Recuerdo de voto;10;Otros partidos ;Otros
+10-Otros partidos;Intención de voto;10;Otros partidos;Otros
+10-Otros partidos;Recuerdo de voto;10;Otros partidos;Otros
+10-Otros partidos;Recuerdo de voto;10;Otros partidos ;Otros
+10-Otros;Recuerdo de voto;10;Otros;Otros
+10-No votó;Recuerdo de voto;10;No votó;No votaría/No votó
+10-No votaría ;Intención de voto;10;No votaría ;No votaría/No votó
+10-No votaría;Intención de voto;10;No votaría;No votaría/No votó
+10-No tenía edad para votar;Recuerdo de voto;10;No tenía edad para votar ;No tenía edad
+10-No tenía edad;Recuerdo de voto;10;No tenía edad;No tenía edad
+10-No sabe todavía ;Intención de voto;10;No sabe todavía ;N.S.
+10-No sabe todavía;Intención de voto;10;No sabe todavía;N.S.
+10-No recuerda ;Recuerdo de voto;10;No recuerda ;N.S.
+10-No recuerda;Recuerdo de voto;10;No recuerda;N.S.
+10-No recuerda;Recuerdo de voto;10;No recuerda ;N.S.
+10-NC (Nueva Canarias);Intención de voto;10;NC (Nueva Canarias);NCa
+10-NC;Intención de voto;10;NC;NCa
+10-Na Bai;Intención de voto;10;Na Bai;GBai
+10-NA;Recuerdo de voto;10;NA;N.C.
+10-N.C.;Intención de voto;10;N.C.;N.C.
+10-N.C.;Recuerdo de voto;10;N.C.;N.C.
+10-Los verdes;Intención de voto;10;Los verdes;Otros
+10-IU/ICV;Recuerdo de voto;10;IU/ICV;IU
+10-IU (ICV en Cataluña) ;Intención de voto;10;IU (ICV en Cataluña) ;IU
+10-IU (ICV en Cataluña) ;Recuerdo de voto;10;IU (ICV en Cataluña) ;IU
+10-IU (ICV en Cataluña);Intención de voto;10;IU (ICV en Cataluña);IU
+10-IU (ICV en Cataluña);Recuerdo de voto;10;IU (ICV en Cataluña);IU
+10-IU (ICV en Cataluña);Recuerdo de voto;10;IU (ICV en Cataluña) ;IU
+10-IU (en Cataluña ICV);Recuerdo de voto;10;IU (en Cataluña ICV);IU
+10-Impulso social;Intención de voto;10;Impulso social;Otros
+10-Geroa Bai ;Intención de voto;10;Geroa Bai ;GBai
+10-Geroa Bai ;Recuerdo de voto;10;Geroa Bai ;GBai
+10-Geroa Bai;Intención de voto;10;Geroa Bai;GBai
+10-Geroa Bai;Recuerdo de voto;10;Geroa Bai;GBai
+10-Geroa Bai;Recuerdo de voto;10;Geroa Bai ;GBai
+10-Falange;Intención de voto;10;Falange;Otros
+10-FAC;Intención de voto;10;FAC;FAC
+10-FAC;Recuerdo de voto;10;FAC;FAC
+10-España 2000;Intención de voto;10;España 2000;Otros
+10-ERC;Intención de voto;10;ERC;ERC
+10-ERC;Recuerdo de voto;10;ERC;ERC
+10-EQUO;Intención de voto;10;EQUO;EQUO
+10-En blanco ;Intención de voto;10;En blanco ;Blanco
+10-En blanco ;Recuerdo de voto;10;En blanco ;Blanco
+10-En blanco;Intención de voto;10;En blanco;Blanco
+10-En blanco;Recuerdo de voto;10;En blanco;Blanco
+10-En blanco;Recuerdo de voto;10;En blanco ;Blanco
+10-El partido X;Intención de voto;10;El partido X;Otros
+10-EH-Bildu;Intención de voto;10;EH-Bildu;EHB
+10-Ecologistas en Acción;Intención de voto;10;Ecologistas en Acción;Otros
+10-EB (Escaños en Blanco);Intención de voto;10;EB (Escaños en Blanco);Otros
+10-DER;Intención de voto;10;DER;Otros
+10-CUP;Intención de voto;10;CUP;CUP
+10-Convergència;Intención de voto;10;Convergència;JxCAT
+10-Compromiso por Galicia;Intención de voto;10;Compromiso por Galicia;Otros
+10-Compromís-Q ;Recuerdo de voto;10;Compromís-Q ;Compromís
+10-Compromís-Equo ;Intención de voto;10;Compromís-Equo ;Compromís
+10-Compromís-Equo ;Recuerdo de voto;10;Compromís-Equo ;Compromís
+10-Compromís-Equo;Intención de voto;10;Compromís-Equo;Compromís
+10-Compromís-Equo;Recuerdo de voto;10;Compromís-Equo;Compromís
+10-Compromís-Equo;Recuerdo de voto;10;Compromís-Equo ;Compromís
+10-Compromís Equo ;Intención de voto;10;Compromís Equo ;Compromís
+10-Compromís Equo ;Recuerdo de voto;10;Compromís Equo ;Compromís
+10-Ciudadanos;Intención de voto;10;Ciudadanos;Cs
+10-CiU;Intención de voto;10;CiU;JxCAT
+10-CiU;Recuerdo de voto;10;CiU;JxCAT
+10-CHA;Intención de voto;10;CHA;CHA
+10-CC-NC;Recuerdo de voto;10;CC-NC;CC-NC
+10-CC;Intención de voto;10;CC;CC
+10-CC;Recuerdo de voto;10;CC;CC
+10-BNG;Intención de voto;10;BNG;BNG
+10-BNG;Recuerdo de voto;10;BNG;BNG
+10-ANOVA;Intención de voto;10;ANOVA;Otros
+10-ANC;Intención de voto;10;ANC;Otros
+10-Amaiur;Intención de voto;10;Amaiur;EHB
+10-Amaiur;Recuerdo de voto;10;Amaiur;EHB
+10-Alianza Nacional;Intención de voto;10;Alianza Nacional;Otros
+9-UPyD;Intención de voto;9;UPyD;UPyD
+9-UPyD;Recuerdo de voto;9;UPyD;UPyD
+9-UPN;Intención de voto;9;UPN;UPN
+9-PSOE;Intención de voto;9;PSOE;PSOE
+9-PSOE;Recuerdo de voto;9;PSOE;PSOE
+9-PP;Intención de voto;9;PP;PP
+9-PP;Recuerdo de voto;9;PP;PP
+9-PNV;Intención de voto;9;PNV;PNV
+9-PNV;Recuerdo de voto;9;PNV;PNV
+9-Otros partidos ;Intención de voto;9;Otros partidos ;Otros
+9-Otros partidos ;Recuerdo de voto;9;Otros partidos ;Otros
+9-Otros partidos;Intención de voto;9;Otros partidos;Otros
+9-Otros partidos;Recuerdo de voto;9;Otros partidos;Otros
+9-Otros partidos;Recuerdo de voto;9;Otros partidos ;Otros
+9-Otros;Recuerdo de voto;9;Otros ;Otros
+9-No votó;Recuerdo de voto;9;No votó;No votaría/No votó
+9-No votaría;Intención de voto;9;No votaría;No votaría/No votó
+9-No tenía edad para votar;Recuerdo de voto;9;No tenía edad para votar;No tenía edad
+9-No tenía edad para votar;Recuerdo de voto;9;No tenía edad para votar ;No tenía edad
+9-No sabe todavía ;Intención de voto;9;No sabe todavía ;N.S.
+9-No sabe todavía;Intención de voto;9;No sabe todavía;N.S.
+9-No recuerda ;Recuerdo de voto;9;No recuerda ;N.S.
+9-No recuerda;Recuerdo de voto;9;No recuerda;N.S.
+9-No recuerda;Recuerdo de voto;9;No recuerda ;N.S.
+9-NaBai;Intención de voto;9;NaBai;GBai
+9-NaBai;Recuerdo de voto;9;NaBai;GBai
+9-Na Bai;Intención de voto;9;Na Bai;GBai
+9-Na Bai;Recuerdo de voto;9;Na Bai;GBai
+9-NA;Recuerdo de voto;9;NA;N.C.
+9-N.C.;Intención de voto;9;N.C.;N.C.
+9-N.C.;Recuerdo de voto;9;N.C.;N.C.
+9-IU/ICV;Intención de voto;9;IU/ICV;IU
+9-IU/ICV;Recuerdo de voto;9;IU/ICV;IU
+9-IU (ICV en Cataluña) ;Intención de voto;9;IU (ICV en Cataluña) ;IU
+9-IU (ICV en Cataluña) ;Recuerdo de voto;9;IU (ICV en Cataluña) ;IU
+9-IU (ICV en Cataluña);Recuerdo de voto;9;IU (ICV en Cataluña) ;IU
+9-IU;Recuerdo de voto;9;IU;IU
+9-ERC;Intención de voto;9;ERC;ERC
+9-ERC;Recuerdo de voto;9;ERC;ERC
+9-En blanco ;Intención de voto;9;En blanco ;Blanco
+9-En blanco ;Recuerdo de voto;9;En blanco ;Blanco
+9-En blanco;Recuerdo de voto;9;En blanco;Blanco
+9-En blanco;Recuerdo de voto;9;En blanco ;Blanco
+9-EA;Recuerdo de voto;9;EA;EA
+9-CiU;Intención de voto;9;CiU;JxCAT
+9-CiU;Recuerdo de voto;9;CiU;JxCAT
+9-CHA;Recuerdo de voto;9;CHA;CHA
+9-CC;Intención de voto;9;CC;CC
+9-CC;Recuerdo de voto;9;CC;CC
+9-BNG;Intención de voto;9;BNG;BNG
+9-BNG;Recuerdo de voto;9;BNG;BNG
+sep-96;Intención de voto;9;96;Blanco
+ago-98;Intención de voto;8;98;N.S.
+ago-97;Intención de voto;8;97;No votaría/No votó
+8-PSOE;Intención de voto;8;PSOE;PSOE
+8-PSOE;Recuerdo de voto;8;PSOE;PSOE
+8-PP;Intención de voto;8;PP;PP
+8-PP;Recuerdo de voto;8;PP;PP
+8-PNV;Intención de voto;8;PNV;PNV
+8-PNV;Recuerdo de voto;8;PNV;PNV
+8-Otros partidos ;Intención de voto;8;Otros partidos ;Otros
+8-Otros partidos ;Recuerdo de voto;8;Otros partidos ;Otros
+8-Otros partidos;Intención de voto;8;Otros partidos;Otros
+8-Otros partidos;Recuerdo de voto;8;Otros partidos;Otros
+8-Otros partidos;Recuerdo de voto;8;Otros partidos ;Otros
+8-No votó;Recuerdo de voto;8;No votó;No votaría/No votó
+8-No votaría;Intención de voto;8;No votaría;No votaría/No votó
+8-No tenía edad para votar ;Recuerdo de voto;8;No tenía edad para votar ;No tenía edad
+8-No tenía edad para votar;Recuerdo de voto;8;No tenía edad para votar;No tenía edad
+8-No tenía edad para votar;Recuerdo de voto;8;No tenía edad para votar ;No tenía edad
+8-No sabe todavía ;Intención de voto;8;No sabe todavía ;N.S.
+8-No sabe todavía;Intención de voto;8;No sabe todavía;N.S.
+8-No recuerda ;Recuerdo de voto;8;No recuerda ;N.S.
+8-No recuerda;Recuerdo de voto;8;No recuerda;N.S.
+8-No recuerda;Recuerdo de voto;8;No recuerda ;N.S.
+8-NaBai;Intención de voto;8;NaBai;GBai
+8-NaBai;Recuerdo de voto;8;NaBai;GBai
+8-Na-Bai;Intención de voto;8;Na-Bai;GBai
+8-Na-Bai;Recuerdo de voto;8;Na-Bai;GBai
+8-N.C.;Intención de voto;8;N.C.;N.C.
+8-N.C.;Recuerdo de voto;8;N.C.;N.C.
+8-IU/ICV;Intención de voto;8;IU/ICV;IU
+8-IU/ICV;Recuerdo de voto;8;IU/ICV;IU
+8-IU (ICV) ;Intención de voto;8;IU (ICV) ;IU
+8-IU (ICV);Recuerdo de voto;8;IU (ICV);IU
+8-IU (ICV en Cataluña) ;Intención de voto;8;IU (ICV en Cataluña) ;IU
+8-IU (ICV en Cataluña) ;Recuerdo de voto;8;IU (ICV en Cataluña) ;IU
+8-IU (ICV en Cataluña);Intención de voto;8;IU (ICV en Cataluña);IU
+8-IU (ICV en Cataluña);Recuerdo de voto;8;IU (ICV en Cataluña);IU
+8-IU (ICV en Cataluña);Recuerdo de voto;8;IU (ICV en Cataluña) ;IU
+8-IU;Intención de voto;8;IU;IU
+8-IU;Recuerdo de voto;8;IU;IU
+8-ERC;Intención de voto;8;ERC;ERC
+8-ERC;Recuerdo de voto;8;ERC;ERC
+8-En blanco ;Intención de voto;8;En blanco ;Blanco
+8-En blanco ;Recuerdo de voto;8;En blanco ;Blanco
+8-En blanco;Intención de voto;8;En blanco;Blanco
+8-En blanco;Recuerdo de voto;8;En blanco;Blanco
+8-En blanco;Recuerdo de voto;8;En blanco ;Blanco
+8-EA;Intención de voto;8;EA;EA
+8-EA;Recuerdo de voto;8;EA;EA
+8-CiU;Intención de voto;8;CiU;JxCAT
+8-CiU;Recuerdo de voto;8;CiU;JxCAT
+8-CHA;Intención de voto;8;CHA;CHA
+8-CHA;Recuerdo de voto;8;CHA;CHA
+8-CC;Intención de voto;8;CC;CC
+8-CC;Recuerdo de voto;8;CC;CC
+8-BNG;Intención de voto;8;BNG;BNG
+8-BNG;Recuerdo de voto;8;BNG;BNG
+7-PSOE;Intención de voto;7;PSOE;PSOE
+7-PSOE;Recuerdo de voto;7;PSOE;PSOE
+7-PP;Intención de voto;7;PP;PP
+7-PP;Recuerdo de voto;7;PP;PP
+7-PNV;Intención de voto;7;PNV;PNV
+7-PNV;Recuerdo de voto;7;PNV;PNV
+7-PA;Intención de voto;7;PA;PA
+7-PA;Recuerdo de voto;7;PA;PA
+7-Otros partidos ;Intención de voto;7;Otros partidos ;Otros
+7-Otros partidos ;Recuerdo de voto;7;Otros partidos ;Otros
+7-Otros partidos;Intención de voto;7;Otros partidos;Otros
+7-Otros partidos;Recuerdo de voto;7;Otros partidos;Otros
+7-Otros partidos;Recuerdo de voto;7;Otros partidos ;Otros
+7-No votó;Recuerdo de voto;7;No votó;No votaría/No votó
+7-No votaría ;Intención de voto;7;No votaría ;No votaría/No votó
+7-No votaría;Intención de voto;7;No votaría;No votaría/No votó
+7-No tenía edad para votar ;Recuerdo de voto;7;No tenía edad para votar ;No tenía edad
+7-No tenía edad para votar;Recuerdo de voto;7;No tenía edad para votar;No tenía edad
+7-No tenía edad para votar;Recuerdo de voto;7;No tenía edad para votar ;No tenía edad
+7-No sabe todavía ;Intención de voto;7;No sabe todavía ;N.S.
+7-No sabe todavía;Intención de voto;7;No sabe todavía;N.S.
+7-No recuerda ;Recuerdo de voto;7;No recuerda ;N.S.
+7-No recuerda;Recuerdo de voto;7;No recuerda;N.S.
+7-No recuerda;Recuerdo de voto;7;No recuerda ;N.S.
+7-N.C.;Intención de voto;7;N.C.;N.C.
+7-N.C.;Recuerdo de voto;7;N.C.;N.C.
+7-IU;Intención de voto;7;IU;IU
+7-IU;Recuerdo de voto;7;IU;IU
+7-IC-V;Intención de voto;7;IC-V;IU
+7-IC-V;Recuerdo de voto;7;IC-V;IU
+7-ERC;Intención de voto;7;ERC;ERC
+7-ERC;Recuerdo de voto;7;ERC;ERC
+7-En blanco ;Intención de voto;7;En blanco ;Blanco
+7-En blanco ;Recuerdo de voto;7;En blanco ;Blanco
+7-En blanco;Intención de voto;7;En blanco;Blanco
+7-En blanco;Recuerdo de voto;7;En blanco;Blanco
+7-En blanco;Recuerdo de voto;7;En blanco ;Blanco
+7-EA;Intención de voto;7;EA;EA
+7-EA;Recuerdo de voto;7;EA;EA
+7-CiU;Intención de voto;7;CiU;JxCAT
+7-CiU;Recuerdo de voto;7;CiU;JxCAT
+7-CHA;Intención de voto;7;CHA;CHA
+7-CHA;Recuerdo de voto;7;CHA;CHA
+7-CC;Intención de voto;7;CC;CC
+7-CC;Recuerdo de voto;7;CC;CC
+7-BNG;Intención de voto;7;BNG;BNG
+7-BNG;Recuerdo de voto;7;BNG;BNG
+6-UV;Intención de voto;6;UV;Otros
+6-UV;Recuerdo de voto;6;UV;Otros
+6-PSOE;Intención de voto;6;PSOE;PSOE
+6-PSOE;Recuerdo de voto;6;PSOE;PSOE
+6-PP;Intención de voto;6;PP;PP
+6-PP;Recuerdo de voto;6;PP;PP
+6-PNV;Intención de voto;6;PNV;PNV
+6-PNV;Recuerdo de voto;6;PNV;PNV
+6-PA;Intención de voto;6;PA;PA
+6-PA;Recuerdo de voto;6;PA;PA
+6-Otros partidos (sin especificar);Intención de voto;6;Otros partidos (sin especificar);Otros
+6-Otros partidos;Intención de voto;6;Otros partidos;Otros
+6-Otros partidos;Recuerdo de voto;6;Otros partidos;Otros
+6-Otros (cita un partido en concreto);Intención de voto;6;Otros (cita un partido en concreto);Otros
+6-Otros;Intención de voto;6;Otros;Otros
+6-Otros;Recuerdo de voto;6;Otros;Otros
+6-Otro; ¿cuál?;Intención de voto;6;Otro, ¿cuál?
+6-Otro; ¿cuál?;Recuerdo de voto;6;Otro, ¿cuál?
+6-Otro;Intención de voto;6;Otro;Otros
+6-Otro;Recuerdo de voto;6;Otro;Otros
+6-No votó {No votó};Recuerdo de voto;6;No votó {No votó};No votaría/No votó
+6-No votó;Recuerdo de voto;6;No votó;No votaría/No votó
+6-No votaría {No vot.};Intención de voto;6;No votaría {No vot.};No votaría/No votó
+6-No votaría;Intención de voto;6;No votaría;No votaría/No votó
+6-No tenía edad para votar {No edad};Recuerdo de voto;6;No tenía edad para votar {No edad};No tenía edad
+6-No tenía edad para votar;Recuerdo de voto;6;No tenía edad para votar;No tenía edad
+6-No sabe todavía {N.S.};Intención de voto;6;No sabe todavía {N.S.};N.S.
+6-No sabe todavía;Intención de voto;6;No sabe todavía;N.S.
+6-No recuerda {N.R.};Recuerdo de voto;6;No recuerda {N.R.};N.S.
+6-No recuerda;Recuerdo de voto;6;No recuerda;N.S.
+6-NA;Recuerdo de voto;6;NA;N.C.
+6-N.C.;Intención de voto;6;N.C.;N.C.
+6-N.C.;Recuerdo de voto;6;N.C.;N.C.
+6-IU;Intención de voto;6;IU;IU
+6-IU;Recuerdo de voto;6;IU;IU
+6-IC-EV;Intención de voto;6;IC-EV;IU
+6-IC-EV;Recuerdo de voto;6;IC-EV;IU
+6-HB;Intención de voto;6;HB;EHB
+6-HB;Recuerdo de voto;6;HB;EHB
+6-ERC;Intención de voto;6;ERC;ERC
+6-ERC;Recuerdo de voto;6;ERC;ERC
+6-En blanco {Blanco};Intención de voto;6;En blanco {Blanco};Blanco
+6-En blanco {Blanco};Recuerdo de voto;6;En blanco {Blanco};Blanco
+6-En blanco;Intención de voto;6;En blanco;Blanco
+6-En blanco;Recuerdo de voto;6;En blanco;Blanco
+6-EH (HB);Intención de voto;6;EH (HB);EHB
+6-EA-EUE;Intención de voto;6;EA-EUE;EA
+6-EA-EUE;Recuerdo de voto;6;EA-EUE;EA
+6-EA;Intención de voto;6;EA;EA
+6-EA;Recuerdo de voto;6;EA;EA
+6-CiU;Intención de voto;6;CiU;JxCAT
+6-CiU;Recuerdo de voto;6;CiU;JxCAT
+6-CC;Intención de voto;6;CC;CC
+6-CC;Recuerdo de voto;6;CC;CC
+6-BNG;Intención de voto;6;BNG;BNG
+6-BNG;Recuerdo de voto;6;BNG;BNG
+5-Voto en blanco;Intención de voto;5;Voto en blanco;Blanco
+5-Votaría en blanco;Intención de voto;5;Votaría en blanco;Blanco
+5-Votará en blanco;Intención de voto;5;Votará en blanco;Blanco
+5-UV;Intención de voto;5;UV;Otros
+5-UV;Recuerdo de voto;5;UV;Otros
+5-UM;Recuerdo de voto;5;UM;Otros
+5-PSOE;Intención de voto;5;PSOE;PSOE
+5-PSOE;Recuerdo de voto;5;PSOE;PSOE
+5-PP;Intención de voto;5;PP;PP
+5-PP;Recuerdo de voto;5;PP;PP
+5-Poder Andaluz-PA;Recuerdo de voto;5;Poder Andaluz-PA ;Otros
+5-PNV;Intención de voto;5;PNV;PNV
+5-PNV;Recuerdo de voto;5;PNV;PNV
+5-PAR;Intención de voto;5;PAR;PAR
+5-PAR;Recuerdo de voto;5;PAR;PAR
+5-PA (PAP);Intención de voto;5;PA (PAP);PA
+5-PA;Intención de voto;5;PA;PA
+5-PA;Recuerdo de voto;5;PA;PA
+5-Otros partidos;Recuerdo de voto;5;Otros partidos ;Otros
+5-Otro de izquierdas ;Intención de voto;5;Otro de izquierdas ;Otros
+5-Otro de izquierdas ;Recuerdo de voto;5;Otro de izquierdas ;Otros
+5-Otro de izquierdas;Intención de voto;5;Otro de izquierdas;Otros
+5-Otro de izquierdas;Recuerdo de voto;5;Otro de izquierdas;Otros
+5-Otro de izquierdas;Recuerdo de voto;5;Otro de izquierdas ;Otros
+5-Otro de derechas ;Intención de voto;5;Otro de derechas ;Otros
+5-Otro de derechas ;Recuerdo de voto;5;Otro de derechas ;Otros
+5-Otro de derechas;Intención de voto;5;Otro de derechas;Otros
+5-Otro de derechas;Recuerdo de voto;5;Otro de derechas;Otros
+5-Otro de derechas;Recuerdo de voto;5;Otro de derechas ;Otros
+5-Otro;Intención de voto;5;Otro;Otros
+5-Otro;Recuerdo de voto;5;Otro;Otros
+5-No votó {Novoto};Recuerdo de voto;5;No votó {Novoto};No votaría/No votó
+5-No votó ;Recuerdo de voto;5;No votó ;No votaría/No votó
+5-No votó;Recuerdo de voto;5;No votó;No votaría/No votó
+5-No votó;Recuerdo de voto;5;No votó ;No votaría/No votó
+5-No voto;Recuerdo de voto;5;No voto;No votaría/No votó
+5-No votaría {No vot.};Intención de voto;5;No votaría {No vot.};No votaría/No votó
+5-No votaría ;Intención de voto;5;No votaría ;No votaría/No votó
+5-No votaría;Intención de voto;5;No votaría;No votaría/No votó
+5-No tenía edad para votar ;Recuerdo de voto;5;No tenía edad para votar ;No tenía edad
+5-No tenía edad para votar;Recuerdo de voto;5;No tenía edad para votar;No tenía edad
+5-No tenía edad para votar;Recuerdo de voto;5;No tenía edad para votar ;No tenía edad
+5-No tenía edad {No edad};Recuerdo de voto;5;No tenía edad {No edad};No tenía edad
+5-No tenía edad;Recuerdo de voto;5;No tenía edad;No tenía edad
+5-No sabe todavía {N.S.};Intención de voto;5;No sabe todavía {N.S.};N.S.
+5-No sabe todavía ;Intención de voto;5;No sabe todavía ;N.S.
+5-No sabe todavía;Intención de voto;5;No sabe todavía;N.S.
+5-No recuerda {N.R.};Recuerdo de voto;5;No recuerda {N.R.};N.S.
+5-No recuerda ;Recuerdo de voto;5;No recuerda ;N.S.
+5-No recuerda;Recuerdo de voto;5;No recuerda;N.S.
+5-No recuerda;Recuerdo de voto;5;No recuerda ;N.S.
+5-No contesta;Recuerdo de voto;5;No contesta;N.C.
+5-Ninguno ;Intención de voto;5;Ninguno ;No votaría/No votó
+5-Ninguno;Recuerdo de voto;5;Ninguno;No votaría/No votó
+5-NA;Recuerdo de voto;5;NA;N.C.
+5-N.S.;Intención de voto;5;N.S.;N.S.
+5-N.S.;Recuerdo de voto;5;N.S.;N.S.
+5-N.C.;Intención de voto;5;N.C.;N.C.
+5-N.C.;Recuerdo de voto;5;N.C.;N.C.
+5-Los Verdes; un partido ecologista;Recuerdo de voto;5;Los Verdes, un partido ecologista 
+5-Los Verdes;Intención de voto;5;Los Verdes;Otros
+5-IU;Intención de voto;5;IU;IU
+5-IU;Recuerdo de voto;5;IU;IU
+5-HB;Intención de voto;5;HB;EHB
+5-HB;Recuerdo de voto;5;HB;EHB
+5-FORO-CDS;Recuerdo de voto;5;FORO-CDS;CDS
+5-ERC-ACC;Recuerdo de voto;5;ERC-ACC;ERC
+5-ERC;Intención de voto;5;ERC;ERC
+5-ERC;Recuerdo de voto;5;ERC;ERC
+5-ENE-ERC;Recuerdo de voto;5;ENE-ERC;ERC
+05-ene;Recuerdo de voto;5;ENE;Otros
+5-En blanco {Blanco};Intención de voto;5;En blanco {Blanco};Blanco
+5-En blanco {Blanco};Recuerdo de voto;5;En blanco {Blanco};Blanco
+5-En blanco ;Intención de voto;5;En blanco ;Blanco
+5-En blanco ;Recuerdo de voto;5;En blanco ;Blanco
+5-En blanco;Intención de voto;5;En blanco;Blanco
+5-En blanco;Recuerdo de voto;5;En blanco;Blanco
+5-En blanco;Recuerdo de voto;5;En blanco ;Blanco
+5-EG;Recuerdo de voto;5;EG;Otros
+5-EE;Recuerdo de voto;5;EE;EE
+5-EA-EUE;Intención de voto;5;EA-EUE;EA
+5-EA-EUE;Recuerdo de voto;5;EA-EUE;EA
+5-EA EUE;Intención de voto;5;EA EUE;EA
+5-EA;Recuerdo de voto;5;EA;EA
+5-CiU;Intención de voto;5;CiU;JxCAT
+5-CiU;Recuerdo de voto;5;CiU;JxCAT
+5-CG;Recuerdo de voto;5;CG;Otros
+5-CDS;Intención de voto;5;CDS;CDS
+5-CDS;Recuerdo de voto;5;CDS;CDS
+5-CC;Intención de voto;5;CC;CC
+5-CC;Recuerdo de voto;5;CC;CC
+5-BNG;Intención de voto;5;BNG;BNG
+5-BNG;Recuerdo de voto;5;BNG;BNG
+5-ARM;Recuerdo de voto;5;ARM;Otros
+5-AIC;Recuerdo de voto;5;AIC;Otros
+5-A.R.M.;Recuerdo de voto;5;A.R.M.;Otros
+4-Voto en blanco;Intención de voto;4;Voto en blanco;Blanco
+4-UV;Intención de voto;4;UV;UV
+4-UV;Recuerdo de voto;4;UV;UV
+4-UPV;Intención de voto;4;UPV;Otros
+4-UPN;Intención de voto;4;UPN;UPN
+4-UA;Intención de voto;4;UA;Otros
+4-Ruiz Mateos;Intención de voto;4;Ruiz Mateos;Otros
+4-PSOE;Intención de voto;4;PSOE;PSOE
+4-PSOE;Recuerdo de voto;4;PSOE;PSOE
+4-PRP;Intención de voto;4;PRP;Otros
+4-PRC;Intención de voto;4;PRC;PRC
+4-PP;Intención de voto;4;PP;PP
+4-PP;Recuerdo de voto;4;PP;PP
+4-PNV;Intención de voto;4;PNV;PNV
+4-PNV;Recuerdo de voto;4;PNV;PNV
+4-PAR;Intención de voto;4;PAR;PAR
+4-PAR;Recuerdo de voto;4;PAR;PAR
+4-PAP;Intención de voto;4;PAP;Otros
+4-PA;Intención de voto;4;PA;PA
+4-PA;Recuerdo de voto;4;PA;PA
+4-Otros de izquierdas;Recuerdo de voto;4;Otros de izquierdas;Otros
+4-Otros de derecha;Recuerdo de voto;4;Otros de derecha;Otros
+4-Otro izquierdas;Intención de voto;4;Otro izquierdas;Otros
+4-Otro izquierdas;Recuerdo de voto;4;Otro izquierdas;Otros
+4-Otro derechas;Intención de voto;4;Otro derechas;Otros
+4-Otro derechas;Recuerdo de voto;4;Otro derechas;Otros
+4-Otro de izquierdas;Intención de voto;4;Otro de izquierdas;Otros
+4-Otro de izquierdas;Recuerdo de voto;4;Otro de izquierdas;Otros
+4-Otro de derechas;Intención de voto;4;Otro de derechas;Otros
+4-Otro de derechas;Recuerdo de voto;4;Otro de derechas;Otros
+4-Otro de derecha;Intención de voto;4;Otro de derecha;Otros
+4-Otro;Intención de voto;4;Otro;Otros
+4-No votó;Recuerdo de voto;4;No votó;No votaría/No votó
+4-No votaría;Intención de voto;4;No votaría;No votaría/No votó
+4-No tenía edad para votar;Recuerdo de voto;4;No tenía edad para votar;No tenía edad
+4-No tenía edad;Recuerdo de voto;4;No tenía edad;No tenía edad
+4-No sabe todavía;Intención de voto;4;No sabe todavía;N.S.
+4-No recuerda;Recuerdo de voto;4;No recuerda;N.S.
+4-No contesta;Recuerdo de voto;4;No contesta;N.C.
+4-Ninguno;Intención de voto;4;Ninguno;No votaría/No votó
+4-NA;Recuerdo de voto;4;NA;N.C.
+4-N.S.;Intención de voto;4;N.S.;N.S.
+4-N.C.;Intención de voto;4;N.C.;N.C.
+4-N.C.;Recuerdo de voto;4;N.C.;N.C.
+4-N.C;Intención de voto;4;N.C;N.C.
+4-N.C;Recuerdo de voto;4;N.C;N.C.
+4-LOS VERDES;Intención de voto;4;LOS VERDES;Otros
+4-Los verdes;Recuerdo de voto;4;Los verdes;Otros
+4-IU;Intención de voto;4;IU;IU
+4-IU;Recuerdo de voto;4;IU;IU
+4-HB;Intención de voto;4;HB;EHB
+4-HB;Recuerdo de voto;4;HB;EHB
+4-GIL;Intención de voto;4;GIL;Otros
+4-ERC;Intención de voto;4;ERC;ERC
+4-ERC;Recuerdo de voto;4;ERC;ERC
+4-En blanco;Intención de voto;4;En blanco;Blanco
+4-En blanco;Recuerdo de voto;4;En blanco;Blanco
+4-EE;Intención de voto;4;EE;EE
+4-EE;Recuerdo de voto;4;EE;EE
+4-EA-EUE;Intención de voto;4;EA-EUE;EA
+4-EA-EUE;Recuerdo de voto;4;EA-EUE;EA
+4-EA;Intención de voto;4;EA;EA
+4-EA;Recuerdo de voto;4;EA;EA
+4-CPS;Intención de voto;4;CPS;Otros
+4-CIU;Intención de voto;4;CIU;JxCAT
+4-CIU;Recuerdo de voto;4;CIU;JxCAT
+4-CDS;Intención de voto;4;CDS;CDS
+4-CDS;Recuerdo de voto;4;CDS;CDS
+4-CC;Intención de voto;4;CC;CC
+4-CC;Recuerdo de voto;4;CC;CC
+4-AIC;Intención de voto;4;AIC;Otros
+4-AIC;Recuerdo de voto;4;AIC;Otros
+10-No tenía edad para votar ;Recuerdo de voto;10;No tenía edad para votar ;No tenía edad
+9-Otros ;Recuerdo de voto;6;Otros ;Otros
+9-No tenía edad para votar ;Recuerdo de voto;9;No tenía edad para votar ;No tenía edad
+5-Los Verdes, un partido ecologista;Recuerdo de voto;5;Los Verdes, un partido ecologista ;Otros
+5-Otros partidos ;Recuerdo de voto;5;Otros partidos ;Otros
+5-Poder Andaluz-PA ;Recuerdo de voto;5;Poder Andaluz-PA ;Otros
+5-CIU;Recuerdo de voto;5;CIU;Otros
+4-CiU;Recuerdo de voto;4;CiU;Otros
+09-Otros ;Recuerdo de voto;9;Otros ;Otros
+12-Junts Pel Sí;Intención de voto;12;Junts Pel Sí;Otros
+10-Pacma;Intención de voto;10;Pacma;PACMA
+10-EB (Escaños en blanco);Intención de voto;10;EB (Escaños en blanco);Blanco
+06-NA;Intención de voto;6;NA;No votaría/No votó
+06-CIU;Intención de voto;6;CIU;JxCAT
+05-NA;Intención de voto;5;NA;No votaría/No votó
+05-CIU;Intención de voto;5;CIU;JxCAT
+04-NA;Intención de voto;4;NA;No votaría/No votó
+04-CiU;Intención de voto;4;CiU;JxCAT
+04-Los verdes;Intención de voto;4;Los verdes;Otros
+04-No votarÍa;Intención de voto;4;No votarÍa;No votaría/No votó
+15-No se pregunta;Intención de voto;15;No se pregunta;No se pregunta
+14-No se pregunta;Intención de voto;14;No se pregunta;No se pregunta
+13-No se pregunta;Intención de voto;13;No se pregunta;No se pregunta
+12-No se pregunta;Intención de voto;12;No se pregunta;No se pregunta
+11-No se pregunta;Intención de voto;11;No se pregunta;No se pregunta
+10-No se pregunta;Intención de voto;10;No se pregunta;No se pregunta
+09-No se pregunta;Intención de voto;9;No se pregunta;No se pregunta
+08-No se pregunta;Intención de voto;8;No se pregunta;No se pregunta
+07-No se pregunta;Intención de voto;7;No se pregunta;No se pregunta
+06-No se pregunta;Intención de voto;6;No se pregunta;No se pregunta
+05-No se pregunta;Intención de voto;5;No se pregunta;No se pregunta
+04-No se pregunta;Intención de voto;4;No se pregunta;No se pregunta
+15-No se pregunta;Recuerdo de voto;15;No se pregunta;No se pregunta
+14-No se pregunta;Recuerdo de voto;14;No se pregunta;No se pregunta
+13-No se pregunta;Recuerdo de voto;13;No se pregunta;No se pregunta
+12-No se pregunta;Recuerdo de voto;12;No se pregunta;No se pregunta
+11-No se pregunta;Recuerdo de voto;11;No se pregunta;No se pregunta
+10-No se pregunta;Recuerdo de voto;10;No se pregunta;No se pregunta
+09-No se pregunta;Recuerdo de voto;9;No se pregunta;No se pregunta
+08-No se pregunta;Recuerdo de voto;8;No se pregunta;No se pregunta
+07-No se pregunta;Recuerdo de voto;7;No se pregunta;No se pregunta
+06-No se pregunta;Recuerdo de voto;6;No se pregunta;No se pregunta
+05-No se pregunta;Recuerdo de voto;5;No se pregunta;No se pregunta
+04-No se pregunta;Recuerdo de voto;4;No se pregunta;No se pregunta
