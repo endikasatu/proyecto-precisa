@@ -59,6 +59,7 @@ La idea del proyecto es sencilla. Se trata de articular una gran base de datos d
 - `conoc_lengua`: Nivel de conocimiento de la lengua castellana de la persona entrevistada
 - `conoc_lengua_atrib`: Nivel de conocimiento de la lengua castellana atribuido (entrevistador) de la persona entrevistada
 - `fidelidad`: Fidelidad de voto en elecciones de la persona entrevistada
+- `escala_autoubic_ideol`:  Escala de autoubicación ideológica (1-10) de la persona entrevistada [ 1-2: Izquierda; 3-4: Centro-Izquierda; 5-6: Centro; 7-8: Centro-Derecha; 9-10: Derecha]
 - `grupos_ideol`: Escala de autoubicación ideológica (1-10) de la persona entrevistada agrupada en bloques que van de Izquierda a Derecha
 - `val_sit_poli_esp`: Valoración de la situación política general de España
 - `val_retros_poli_esp`: Valoración retrospectiva de la situación política de España (1 año)
