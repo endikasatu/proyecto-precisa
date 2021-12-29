@@ -34,6 +34,7 @@ La idea del proyecto es sencilla. Se trata de articular una gran base de datos d
 - `segundo_problema`: Segundo problema más importante de la persona entrevistada
 - `tercer_problema`: Tercer problema más importante de la persona entrevistada
 - `sexo`: Sexo de la persona entrevistada
+- `edad`: Edad de la persona entrevistada
 - `grupos_edad`: Grupo de edad al que pertenece la persona entrevistada
 - `grupos_edad_plus`: Grupos de edad detallado al que pertenece la persona entrevistada
 - `edad`: Edad de la persona entrevistada
